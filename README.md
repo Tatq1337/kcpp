@@ -1,4 +1,0 @@
-# kcpp
-# kcpp
-# kcpp
-# kcpp
