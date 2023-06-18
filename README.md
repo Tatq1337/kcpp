@@ -1,16 +1,16 @@
 # kcpp
 
-============================
-Zad 7.6 compilation
-** cd build 
-** cmake -G "Unix Makefiles" ..
-** make 
+============================\n
+Zad 7.6 compilation\n
+** cd build\n
+** cmake -G "Unix Makefiles" ..\n
+** make \n
 
-.\ZadClassKcpp.exe
+.\ZadClassKcpp.exe\n
 
 
 
-** - optional
+** - optional\n
 
 
 ============================
